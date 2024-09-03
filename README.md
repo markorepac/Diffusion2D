@@ -23,5 +23,6 @@ https://github.com/user-attachments/assets/5461f882-6e59-4c3e-9aa0-b232094a740a
 
 Diffusion2D.py is the Python file that makes the same simulation from the same equation. The video of the Python version is below
 
-![Diffusion2D](https://github.com/user-attachments/assets/5af9cd6d-6ec7-4fb9-8379-3934bc017272)
+![Diffusion2D2](https://github.com/user-attachments/assets/92664c29-fea4-493a-bd5f-8a76a27061b9)
+
 
